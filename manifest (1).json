@@ -1,0 +1,27 @@
+{
+  "name": "다시한끼 — 요먹남의 심부전 생존기",
+  "short_name": "다시한끼",
+  "description": "망가진 심장! 다시 건강해지는 한 끼와 한 걸음. 심부전·고혈압 환자 맞춤 무소금 향신료 건강 가이드",
+  "start_url": "/spice-guide/",
+  "scope": "/spice-guide/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#4A6B4A",
+  "theme_color": "#4A6B4A",
+  "lang": "ko",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["health", "medical", "food"]
+}
